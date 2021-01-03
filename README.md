@@ -9,7 +9,7 @@ from Italy, Earth 🌍
 ### 🌱 I'm currently
 
 - learning [Algorithms](https://wikiwand.com/en/Introduction_to_Algorithms)
-- reading [Steve Jobs](https://wikiwand.com/en/Steve_Jobs_(book)) by Walter Isaacson
+- reading [Steve Jobs](<https://wikiwand.com/en/Steve_Jobs_(book)>) by Walter Isaacson
 - listening to [Harry Potter and the Chamber of Secrets](https://wikiwand.com/en/Harry_Potter_and_the_Chamber_of_Secrets) audiobook
 
 ### 🤤 I'm most inspired by
@@ -23,5 +23,6 @@ from Italy, Earth 🌍
 ### 🤩 I'm most excited about
 
 - [Making Humans a Multiplanetary Species](https://spacex.com)
-- Automating boring stuff: using machines to do machine things so we have more time to do human things
-- Contribute to society, help move the world forward
+- Automating boring stuff: using machines to do machine things, so we have more
+  time to do human things
+- Contribute to society, help to move the world forward
