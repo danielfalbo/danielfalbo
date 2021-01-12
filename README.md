@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, world! 👋 
+  Hello, world! 👋
 </h1>
 
 ### I'm Daniel,
@@ -16,16 +16,15 @@ from Italy, Earth 🌍
 
 - [Minimalism](https://wikiwand.com/en/Simple_living)
 - Humans who love what they do
-- Honest and Patient humans
-- [Stoicism](https://wikiwand.com/en/Stoicism)
-- People who truly have fun
 
 ### `🤩` I'm most excited about
 
+- Solving real problems
+- Working with passionate people
 - [Making Humans a Multiplanetary Species](https://spacex.com)
-- Automating boring stuff: using machines to do machine things, so we have more
-  time to do human things
-- Contribute to society, help to move the world forward
+- Automating boring stuff: using machines to do machine things, so we have
+  more time to do human things
+- Making the future better than the past
 
 <!--
 ### `🔭` I'm currently working on ...
