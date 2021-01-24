@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hello, world! 👋
-</h1>
+# Hello, world! 👋
 
 ### I'm Daniel,
 
