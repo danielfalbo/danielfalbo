@@ -7,7 +7,7 @@ from Italy, Earth 🌍
 ### `🌱` I'm currently
 
 - learning [Algorithms](https://wikiwand.com/en/Introduction_to_Algorithms)
-  and Calculus
+  and [Calculus](https://ximera.osu.edu)
 - reading [Steve Jobs](<https://wikiwand.com/en/Steve_Jobs_(book)>) by Walter Isaacson
 - listening to [Harry Potter and the Chamber of Secrets](https://wikiwand.com/en/Harry_Potter_and_the_Chamber_of_Secrets) audiobook
 
