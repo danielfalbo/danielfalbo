@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-### I'm Daniel
+### 🙂 I'm Daniel
 
 from Italy, Earth 🌍
 
@@ -8,7 +8,7 @@ from Italy, Earth 🌍
 
 - Pushing the human race forward
 - Solving real problems and automating boring stuff: using machines to do
-  machine things, so we have more time to do human things
+  machine things, so we have more **time** to do human things
 - Collaborating with passionate people and learning from them
 - Contributing to world-changing projects: making the future better than the
   past
@@ -30,19 +30,18 @@ from Italy, Earth 🌍
 
 #### 💬 Ask me about anything
 
-Even though I prefer to talk about
+Even though I'd prefer to talk about
 
 - state-of-the-art technology
 - poetry
 - cutting edge science
 - life
-- reasons to wake up in the morning
 
-#### 📫 How to reach me:
+#### 📫 How to reach me?
 
 [Twitter](http://twitter.com/danielfalbo_) if you'd like to talk,
 [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com) if you want to
-propose projects or other formal things
+propose projects or other more formal stuff
 
 <!--
 ### 🔭 I'm currently working on ...
