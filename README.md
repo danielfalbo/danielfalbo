@@ -30,7 +30,7 @@ from Italy, Earth 🌍
 
 #### 💬 Ask me about anything
 
-Even though I may be more interested to talk about
+Even though I prefer to talk about
 
 - state-of-the-art technology
 - poetry
@@ -40,9 +40,9 @@ Even though I may be more interested to talk about
 
 #### 📫 How to reach me:
 
-[twitter](http://twitter.com/danielfalbo_) if you just want to talk or
+[Twitter](http://twitter.com/danielfalbo_) if you'd like to talk,
 [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com) if you want to
-propose me projects or more serious things
+propose projects or other formal things
 
 <!--
 ### 🔭 I'm currently working on ...
