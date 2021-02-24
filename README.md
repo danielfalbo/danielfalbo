@@ -17,6 +17,7 @@ from Italy, Earth 🌍
 
 - learning [Algorithms](https://wikiwand.com/en/Introduction_to_Algorithms)
   and Calculus
+- listening to [Naval's Podcast](https://youtu.be/1-TZqOsVCNM)
 - reading [Steve Jobs](<https://wikiwand.com/en/Steve_Jobs_(book)>) by Walter
   Isaacson
 - listening to [Harry Potter and the Prisoner of
