@@ -6,8 +6,7 @@ from Italy, Earth 🌍
 
 #### 💥 I'm most excited about
 
-- Solving real problems and automating boring stuff: programming machines to do
-  machine things, so we have more **time** to do human things
+- Solving real problems and automating boring stuff: programming machines to do machine things, so we have more **time** to do human things
 - Collaborating with passionate people and learning from them
 - Pushing the human race forward
 - Contributing to world-changing projects: making the future better than the past
@@ -18,9 +17,7 @@ from Italy, Earth 🌍
 - learning [Algorithms](https://wikiwand.com/en/Introduction_to_Algorithms) and Calculus
 - listening to [Naval](https://youtu.be/1-TZqOsVCNM)'s Podcast
 - reading [Steve Jobs](<https://wikiwand.com/en/Steve_Jobs_(book)>) by Walter Isaacson
-- listening to [Harry Potter and the Prisoner of
-  Azkaban](https://www.wikiwand.com/en/Harry_Potter_and_the_Prisoner_of_Azkaban)
-  audiobook
+- listening to [Harry Potter and the Goblet of Fire](https://www.wikiwand.com/en/Harry_Potter_and_the_Goblet_of_Fire) audiobook
 
 #### 🤤 I'm most inspired by
 
@@ -37,9 +34,7 @@ Even though I'd prefer to talk about
 
 #### 📫 How to reach me?
 
-[Twitter](http://twitter.com/danielfalbo_) if you'd like to talk,
-[danielfalbo@engineer.com](mailto:danielfalbo@engineer.com) if you want to
-propose projects or other more formal stuff
+[Twitter](http://twitter.com/danielfalbo_) if you'd like to talk, [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com) if you want to propose projects or other more formal stuff
 
 <!--
 ### 🔭 I'm currently working on ...
