@@ -14,7 +14,7 @@ from Italy, Earth 🌍
 
 #### 🌱 I'm currently
 
-- learning [Algorithms](https://wikiwand.com/en/Introduction_to_Algorithms) and Calculus
+- learning [Algorithms](https://wikiwand.com/en/Introduction_to_Algorithms), Data Structures and Calculus
 - listening to [Naval](https://youtu.be/1-TZqOsVCNM)'s Podcast
 - reading [Steve Jobs](<https://wikiwand.com/en/Steve_Jobs_(book)>) by Walter Isaacson
 - listening to [Harry Potter and the Goblet of Fire](https://www.wikiwand.com/en/Harry_Potter_and_the_Goblet_of_Fire) audiobook
