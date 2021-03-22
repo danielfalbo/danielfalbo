@@ -2,7 +2,7 @@
 
 ### 🙂 I'm Daniel
 
-from Italy, Earth 🌍
+a 17 y.o. s.t.e.m. student from Italy, Earth 🌍
 
 #### 💥 I'm most excited about
 
