@@ -2,8 +2,6 @@
 
 ### 🙂 I'm Daniel
 
-a 17 y.o. s.t.e.m. student from Italy, Earth 🌍
-
 #### 💥 I'm most excited about
 
 - Solving real problems and automating boring stuff: programming machines to do machine things, so we have more **time** to do human things
