@@ -16,7 +16,6 @@ a 17 y.o. s.t.e.m. student from Italy, Earth 🌍
 
 - learning [Algorithms](https://wikiwand.com/en/Introduction_to_Algorithms), Data Structures and [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - listening to [Naval](https://youtu.be/1-TZqOsVCNM)'s Podcast
-- reading [Steve Jobs](<https://wikiwand.com/en/Steve_Jobs_(book)>) by Walter Isaacson
 - listening to the [Harry Potter and the Goblet of Fire](https://www.wikiwand.com/en/Harry_Potter_and_the_Goblet_of_Fire) audiobook
 
 #### 🤤 I'm most inspired by
