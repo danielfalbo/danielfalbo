@@ -8,7 +8,7 @@
 - Collaborating with passionate people and learning from them
 - Pushing the human race forward
 - Contributing to world-changing projects: making the future better than the past
-- Producing products and offering services that are useful for other people
+- Making products and offering services that are useful for other people
 
 #### 🌱 I'm currently
 
