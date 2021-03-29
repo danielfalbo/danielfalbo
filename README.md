@@ -2,7 +2,7 @@
 
 ### 🙂 I'm Daniel
 
-![Daniel Falbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfalbo&count_private=true&show_icons=true)
+[![Daniel Falbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfalbo&count_private=true&show_icons=true)](https://github.com/danielfalbo)
 
 #### 💥 I'm most excited about
 
