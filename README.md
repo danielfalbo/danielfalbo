@@ -2,8 +2,6 @@
 
 ### 🙂 I'm Daniel
 
-[![Daniel Falbo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfalbo&layout=compact)](https://github.com/danielfalbo)
-
 #### 💥 I'm most excited about
 
 - Solving real problems and automating boring stuff: programming machines to do machine things, so we have more **time** to do human things
