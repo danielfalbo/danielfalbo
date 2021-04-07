@@ -31,7 +31,7 @@ Even though I'd prefer to talk about
 
 #### 📫 How to reach me?
 
-[Twitter](http://twitter.com/danielfalbo_) if you'd like to talk, [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com) or [LinkedIn](https://www.linkedin.com/in/danielfalbo/) if you want to propose projects or other more formal stuff
+[Twitter](http://twitter.com/danielfalbo_) if you'd like to talk, [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com) or [LinkedIn](https://www.linkedin.com/in/danielfalbo/) if you want to propose projects and other more formal stuff
 
 <!--
 #### 🔭 I'm currently working on ...
