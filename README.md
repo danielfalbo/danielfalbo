@@ -14,6 +14,7 @@
 
 - learning [Algorithms](https://wikiwand.com/en/Introduction_to_Algorithms), Data Structures and [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - listening to [Naval](https://youtu.be/1-TZqOsVCNM)'s Podcast
+- reading Can't Hurt Me by [David Goggins](https://www.wikiwand.com/en/David_Goggins)
 - listening to the [Harry Potter and the Goblet of Fire](https://www.wikiwand.com/en/Harry_Potter_and_the_Goblet_of_Fire) audiobook
 
 #### 🤤 I'm most inspired by
