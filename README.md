@@ -4,11 +4,9 @@
 
 #### 💥 I'm most excited about
 
-- Solving real problems and automating boring stuff: programming machines to do machine things, so we have more **time** to do human things
+- Automating boring stuff: programming machines to do machine things, so we have more **time** to do human things
 - Collaborating with passionate people and learning from them
-  <!-- - Pushing the human race forward -->
-  <!-- - Contributing to world-changing projects: making the future better than the past -->
-- Making products and services that are useful to other people and bring joy
+- Dealing with undistinguishable-from-magic technologies
 
 #### 🌱 I'm currently
 
@@ -21,6 +19,7 @@
 
 - [Minimalism](https://wikiwand.com/en/Simple_living)
 - Humans who love what they do
+- Nature
 
 #### 💬 Ask me about anything
 
