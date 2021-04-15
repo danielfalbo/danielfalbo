@@ -6,9 +6,9 @@
 
 - Solving real problems and automating boring stuff: programming machines to do machine things, so we have more **time** to do human things
 - Collaborating with passionate people and learning from them
-- Pushing the human race forward
-- Contributing to world-changing projects: making the future better than the past
-- Making products and services that are useful for other people and bring joy
+  <!-- - Pushing the human race forward -->
+  <!-- - Contributing to world-changing projects: making the future better than the past -->
+- Making products and services that are useful to other people and bring joy
 
 #### 🌱 I'm currently
 
@@ -33,11 +33,3 @@ Even though I'd prefer to talk about
 #### 📫 How to reach me?
 
 [Twitter](http://twitter.com/danielfalbo_) if you'd like to talk, [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com) or [LinkedIn](https://www.linkedin.com/in/danielfalbo/) if you want to propose projects and other more formal stuff
-
-<!--
-#### 🔭 I'm currently working on ...
-#### 👯 I'm looking to collaborate on ...
-#### 🤔 I'm looking for help with ...
-#### 😄 Pronouns: ...
-#### ⚡ Fun fact: ...
--->
