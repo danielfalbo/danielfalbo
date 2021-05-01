@@ -11,7 +11,8 @@
 #### 🌱 I'm currently
 
 - learning Single Variable Calculus
-- listening to the [Harry Potter and the Goblet of Fire](https://www.wikiwand.com/en/Harry_Potter_and_the_Goblet_of_Fire) audiobook
+- absorbing the [Naval](https://nav.al) podcast
+- working on a cool school project that will soon be public
 
 #### 🤤 I'm most inspired by
 
