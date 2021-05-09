@@ -12,6 +12,7 @@
 
 - learning Single Variable Calculus
 - absorbing the [Naval](https://nav.al) podcast
+- listening to the [Creative Selection by Ken Kocienda](http://creativeselection.io) audiobook
 - working on a cool school project that will soon be public
 
 #### 🤤 I'm most inspired by
