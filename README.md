@@ -1,6 +1,4 @@
-#
-
-## Hello, world! 👋
+# Hello, world! 👋
 
 ### 🙂 I'm Daniel
 
