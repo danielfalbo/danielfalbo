@@ -12,7 +12,6 @@
 
 - learning Single Variable Calculus
 - absorbing the [Naval](https://nav.al) podcast
-- reading [On the Origin of Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) by [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin)
 
 #### 🤤 I'm most inspired by
 
