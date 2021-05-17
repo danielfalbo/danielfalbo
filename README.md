@@ -16,7 +16,7 @@
 
 #### 🤤 I'm most inspired by
 
-- [minimalism](https://wikiwand.com/en/Simple_living)
+- [minimalism](https://en.wikipedia.org/wiki/Simple_living)
 - humans who love what they do
 - nature
 
