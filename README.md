@@ -5,7 +5,7 @@
 #### 💥 I'm most excited about
 
 - automating boring stuff: programming machines to do machine things, so we have more **time** to do human things
-- collaborating with passionate people and learning from them
+- collaborating with passionate people and solving problems worth solving
 - dealing with undistinguishable-from-magic technologies
 
 #### 🌱 I'm currently
