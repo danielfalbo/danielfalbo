@@ -4,9 +4,9 @@
 
 #### 💥 I'm most excited about
 
-- automating boring stuff: programming machines to do machine things, so we have more **time** to do human things
-- collaborating with passionate people and solving problems worth solving
+- automating boring stuff, i.e. programming machines to do machine things, so we have more **time** to do human things
 - dealing with undistinguishable-from-magic technologies
+- collaborating with passionate people and solving problems worth solving
 
 #### 🌱 I'm currently
 
@@ -21,12 +21,14 @@
 
 #### 💬 Ask me about anything
 
-Even though I'd prefer to talk about
+I'd especially love to talk about
 
 - life
-- cutting-edge science
+- cutting-edge science, or
 - state-of-the-art technology
 
 #### 📫 How to reach me?
 
-[Twitter](http://twitter.com/danielfalbo_) if you'd like to talk, [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com) or [LinkedIn](https://www.linkedin.com/in/danielfalbo/) if you want to propose projects and other more formal stuff
+- :bird: [Twitter](http://twitter.com/danielfalbo_)
+- :email: [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com), or
+- :link: [LinkedIn](https://www.linkedin.com/in/danielfalbo/)
