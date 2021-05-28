@@ -6,7 +6,7 @@
 
 - automating boring stuff, i.e. programming machines to do machine things, so we have more **time** to do human things
 - dealing with undistinguishable-from-magic technologies
-- collaborating with passionate people and solving problems worth solving
+- collaborating with passionate people to solve problems worth solving
 
 #### 🌱 I'm currently
 
