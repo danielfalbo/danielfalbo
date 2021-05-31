@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-### My name is Daniel, and
+### My name is Daniel
 
 #### 💥 I'm most excited about
 
@@ -19,11 +19,11 @@
 I'd especially love to talk about
 
 - life
-- cutting-edge science, or
+- cutting-edge science
 - state-of-the-art technology
 
 #### 📫 How to reach me?
 
 - :bird: [Twitter](http://twitter.com/danielfalbo_)
-- :email: [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com), or
+- :email: [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com)
 - :link: [LinkedIn](https://www.linkedin.com/in/danielfalbo/)
