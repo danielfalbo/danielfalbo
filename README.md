@@ -8,11 +8,6 @@
 - dealing with undistinguishable-from-magic technologies
 - collaborating with passionate people to solve problems worth solving
 
-#### 🌱 I'm currently
-
-- learning Single Variable Calculus
-- absorbing the [Naval](https://nav.al) podcast
-
 #### 🤤 I'm most inspired by
 
 - [minimalism](https://en.wikipedia.org/wiki/Simple_living)
