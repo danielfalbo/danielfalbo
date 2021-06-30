@@ -27,7 +27,7 @@ Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a
 
 - 🐦 [Twitter](http://twitter.com/danielfalbo_),
 - 📧 [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com),
-- or 🔗 [LinkedIn](https://www.linkedin.com/in/danielfalbo/)
+- or 🔗 [LinkedIn](https://www.linkedin.com/in/danielfalbo/).
 
 ---
 
@@ -39,7 +39,7 @@ Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a
 and I [value](<https://en.wikipedia.org/wiki/Value_(ethics)>)
 
 - quality over quantity [decision-making](https://en.wikipedia.org/wiki/Decision-making),
-- [purpose-oriented design](<https://en.wikipedia.org/wiki/Functionalism_(architecture)>),
+- purpose-oriented design,
 - and [decision fatigue](https://en.wikipedia.org/wiki/Decision_fatigue) minimization.
 
 **[2]** "_Full-out_" as we say in the dance world.
