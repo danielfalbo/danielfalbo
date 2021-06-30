@@ -39,7 +39,7 @@ Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a
 and I [value](<https://en.wikipedia.org/wiki/Value_(ethics)>)
 
 - quality over quantity [decision-making](https://en.wikipedia.org/wiki/Decision-making),
-- purpose-oriented design,
+- [purpose](https://en.wikipedia.org/wiki/Intention)-oriented design,
 - and [decision fatigue](https://en.wikipedia.org/wiki/Decision_fatigue) minimization.
 
 **[2]** "_Full-out_" as we say in the dance world.
