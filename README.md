@@ -1,29 +1,34 @@
 # Hello, world! 👋
 
-### My name is Daniel
+I'm Daniel, a S.T.E.M. student curious about Computer Science, and I also call myself a "Functional Minimalist **[1]**."
 
-#### 💥 I'm most excited about
+Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a random entry from my collection of quotes and poetry snippets.
 
-- automating boring stuff, i.e. programming machines to do machine things, so we have more **time** to do human things
-- dealing with undistinguishable-from-magic technologies
-- collaborating with passionate people to solve problems worth solving
+## 🤤 My biggest inspirations are
 
-#### 🤤 I'm most inspired by
+- nature,
+- [minimalism](https://en.wikipedia.org/wiki/Simple_living),
+- and humans who love what they do.
 
-- [minimalism](https://en.wikipedia.org/wiki/Simple_living)
-- humans who love what they do
-- nature
+## 💥 I'm most excited about
 
-#### 💬 Ask me about anything
+- collaborating with passionate people to solve problems worth solving,
+- automating boring stuff (i.e., programming machines to do machine things, so we have more **time** to do human things),
+- and dealing with undistinguishable-from-magic technologies.
 
-I'd especially love to talk about
+## 🎡 The recurring experiences I enjoy the most are
 
-- life
-- cutting-edge science
-- state-of-the-art technology
+- listening to great music,
+- reading,
+- dancing,
+- and focusing deeply enough to fall into the flow state, which only happens when I focus on things I care about with all myself.
 
-#### 📫 How to reach me?
+## 💬 Want to chat? I'd love to! Reach me on
 
-- :bird: [Twitter](http://twitter.com/danielfalbo_)
-- :email: [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com)
-- :link: [LinkedIn](https://www.linkedin.com/in/danielfalbo/)
+- 🐦 [Twitter](http://twitter.com/danielfalbo_),
+- 📧 [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com),
+- or 🔗 [LinkedIn](https://www.linkedin.com/in/danielfalbo/)
+
+---
+
+**[1]** What I mean is that I appreciate intuitive things, minimal aesthetics, and I value simple living, detail-oriented design, quality over quantity decision-making, and decision fatigue minimization.
