@@ -21,7 +21,7 @@ Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a
 - listening to great [music](https://en.wikipedia.org/wiki/Music),
 - [reading](https://en.wikipedia.org/wiki/Reading),
 - dancing,
-- and focusing deeply enough to fall into the [flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>) state, which only happens when I focus on things I care about with all myself².
+- and focusing deeply enough to fall into the [flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>) state, which only happens when I focus on things I care about with all myself **²**.
 
 ## 💬 Want to [chat](https://en.wikipedia.org/wiki/Conversation)? I'd love to! Reach me on
 
