@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-I'm Daniel, a S.T.E.M. student curious about Computer Science, and I also call myself a "Functional Minimalist **[1]**."
+I'm Daniel, a S.T.E.M. student curious about Computer Science, and I also call myself a "Functional Minimalist **¹**."
 
 Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a random entry from my collection of quotes and poetry snippets.
 
