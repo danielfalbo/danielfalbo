@@ -43,5 +43,3 @@ and I [value](<https://en.wikipedia.org/wiki/Value_(ethics)>)
 - and [decision fatigue](https://en.wikipedia.org/wiki/Decision_fatigue) minimization.
 
 **[2]** "_Full-out_" as we say in the dance world.
-
-![GitHub Contributions Grid Snake Animation](snk.svg)
