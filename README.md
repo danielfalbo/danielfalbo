@@ -25,7 +25,6 @@ Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a
 
 ## 💬 Want to [chat](https://en.wikipedia.org/wiki/Conversation)? I'd love to! Reach me on
 
-- 🐦 [Twitter](http://twitter.com/danielfalbo_),
 - 📧 [danielfalbo@engineer.com](mailto:danielfalbo@engineer.com),
 - or 🔗 [LinkedIn](https://www.linkedin.com/in/danielfalbo/).
 
