@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-[I](https://en.wikipedia.org/wiki/Self)'m Daniel, a [S.T.E.M.](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) student curious about [Computer Science](https://en.wikipedia.org/wiki/Computer_science), and I also call myself a "_Functional Minimalist_ **¹**."
+I'm Daniel, a [S.T.E.M.](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) student curious about [Computer Science](https://en.wikipedia.org/wiki/Computer_science), and I also call myself a "_Functional Minimalist_ **¹**."
 
 Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a random entry from my collection of quotes and poetry snippets.
 
@@ -16,7 +16,7 @@ Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a
 - [automating](https://en.wikipedia.org/wiki/Automation) [boring](https://en.wikipedia.org/wiki/Boredom) stuff (i.e., [programming](https://en.wikipedia.org/wiki/Computer_programming) [machines](https://en.wikipedia.org/wiki/Machine) to do machine things, so we have more **[time](https://en.wikipedia.org/wiki/Time)** to do [human things](https://en.wikipedia.org/wiki/Human_behavior)),
 - and dealing with undistinguishable-from-[magic](<https://en.wikipedia.org/wiki/Magic_(illusion)>) [technologies](https://en.wikipedia.org/wiki/Technology).
 
-## 🎡 The recurring [experiences](https://en.wikipedia.org/wiki/Experience) I [enjoy](https://en.wikipedia.org/wiki/Joy) the most are
+## 🎡 The recurring [experiences](https://en.wikipedia.org/wiki/Experience) [I](https://en.wikipedia.org/wiki/Self) [enjoy](https://en.wikipedia.org/wiki/Joy) the most are
 
 - listening to great [music](https://en.wikipedia.org/wiki/Music),
 - [reading](https://en.wikipedia.org/wiki/Reading),
