@@ -2,7 +2,7 @@
 
 I'm Daniel, a [S.T.E.M.](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) student curious about [Computer Science](https://en.wikipedia.org/wiki/Computer_science), and I also call myself a "_Functional Minimalist_ **¹**."
 
-Visit [:octocat: danielfalbo.github.io](https://danielfalbo.github.io) to read a random entry from my collection of quotes and poetry snippets.
+Visit [danielfalbo.github.io](https://danielfalbo.github.io) to read a random entry from my collection of quotes and poetry snippets.
 
 ## 🤤 My biggest [inspirations](https://en.wikipedia.org/wiki/Artistic_inspiration) are
 
